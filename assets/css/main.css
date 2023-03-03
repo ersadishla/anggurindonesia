@@ -428,7 +428,7 @@ a.bordered-btn {
 a.read-more-btn {
   display: inline-block;
   margin-top: 15px;
-  color: #051922;
+  color: #F28123;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -436,7 +436,7 @@ a.read-more-btn {
 }
 
 a.read-more-btn:hover {
-  color: #F28123;
+  color: #D96F18;
 }
 
 a.boxed-btn, a.bordered-btn, a.cart-btn {
