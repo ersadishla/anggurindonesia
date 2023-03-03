@@ -312,6 +312,7 @@
 
 	.find-location p {
 	    font-size: 20px;
+		padding: 25px 0;
 	}
 
 	.comment-template form p input[type=email] {
