@@ -74,14 +74,14 @@ h1, .h1 {
 
 @media only screen and (max-width: 767.96px) {
   h1, .h1 {
-    font-size: 3rem;
+    font-size: 3.5rem;
     line-height: 3.25rem;
   }
 }
 
 @media only screen and (max-width: 575.96px) {
   h1, .h1 {
-    font-size: 2.5rem;
+    font-size: 3rem;
     line-height: 2.75rem;
   }
 }
@@ -1359,7 +1359,7 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/hero-bg.jpg);
+  background-image: url(../img/hero-bg.png);
   background-size: cover;
   background-position: right;
   background-attachment: fixed;
@@ -1393,11 +1393,11 @@ html, body {
   content: "";
   background-color: #07212e;
   z-index: -1;
-  opacity: 0.6;
+  opacity: 0.1;
 }
 
 .hero-text p.subtitle {
-  color: #F28123;
+  color: #FFF;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 7px;
