@@ -1359,9 +1359,9 @@ a.mobile-show.search-bar-icon:hover {
 
 ----------------------------------------------------------------------------- */
 .hero-bg {
-  background-image: url(../img/hero-bg.png);
+  background-image: url(../img/hero-background.jpeg);
   background-size: cover;
-  background-position: right;
+  background-position: center;
   background-attachment: fixed;
 }
 
