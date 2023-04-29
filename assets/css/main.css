@@ -1588,27 +1588,19 @@ div.owl-controls, .owl-controls div {
 
 ----------------------------------------------------------------------------- */
 .news-bg-1 {
-  background-image: url(../img/latest-news/grape-seeds.jpeg);
+  background-image: url(../img/blog/grape-seeds.jpeg);
 }
 
 .news-bg-2 {
-  background-image: url(../img/latest-news/harvest-grape.jpeg);
+  background-image: url(../img/blog/harvest-grape.jpeg);
 }
 
 .news-bg-3 {
-  background-image: url(../img/latest-news/training.jpg);
+  background-image: url(../img/blog/training.jpg);
 }
 
 .news-bg-4 {
-  background-image: url(../img/latest-news/greenhouse.jpg);
-}
-
-.news-bg-5 {
-  background-image: url(../img/latest-news/news-bg-5.jpg);
-}
-
-.news-bg-6 {
-  background-image: url(../img/latest-news/news-bg-6.jpg);
+  background-image: url(../img/blog/greenhouse.jpg);
 }
 
 .latest-news-bg {
